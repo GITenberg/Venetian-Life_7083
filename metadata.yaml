@@ -1,0 +1,41 @@
+_repo: Venetian-Life_7083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: At the outbreak of the Civil War, Howells was appointed United States
+  consul in Venice, Italy. In Venetian Life , an utterly engaging travelogue, Howells
+  revises a series of travel letters he had written about his experiences in Venice
+  for the Boston Advertiser . Honest in its love for (yet discomfort in) Venice, it
+  would be followed by Italian Journeys .
+gutenberg_issued: '2004-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7083'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venice (Italy) -- Description and travel'
+- !lcsh 'Howells, William Dean, 1837-1920 -- Travel -- Italy -- Venice'
+- !lcsh 'Venice (Italy) -- Social life and customs'
+- !lcc 'DG'
+- GITenberg
+tableOfContents: Venice in Venice -- Arrival and first days in Venice -- The winter
+  in Venice -- Comincia far caldo -- Opera and theatres -- Venetian dinners and diners
+  -- Housekeeping in Venice -- The balcony on the Grand Canal -- A day-break ramble
+  -- The Mouse -- Churches and pictures -- Some islands of the lagoons -- The Armenians
+  -- The Ghetto and the Jews of Venice -- Some memorable places -- Commerce -- Venetian
+  holidays -- Christmas holidays -- Love-making and marrying; baptisms and burials
+  -- Venetian traits and characters -- Society -- Our last year in Venice.
+title: Venetian Life
+url: http://www.gutenberg.org/ebooks/7083
