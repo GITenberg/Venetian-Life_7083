@@ -1,5 +1,8 @@
 _repo: Venetian-Life_7083
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -16,6 +19,8 @@ description: At the outbreak of the Civil War, Howells was appointed United Stat
   revises a series of travel letters he had written about his experiences in Venice
   for the Boston Advertiser . Honest in its love for (yet discomfort in) Venice, it
   would be followed by Italian Journeys .
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7083#Venetian-Life
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
 identifiers:
